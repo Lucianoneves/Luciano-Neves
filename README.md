@@ -41,7 +41,7 @@ Aplicação desenvolvida para busca e consulta de dados automotivos, facilitando
 
 ### 📫 Como me encontrar
 
-- 💼 LinkedIn: [Luciano/Link do LinkedIn](https://www.linkedin.com/in/luciano-neves-dos-santos-5ba61664/)
+- 💼 LinkedIn: https://www.linkedin.com/in/luciano-neves-dos-santos-5ba61664/
 - 📧 E-mail: [seu.email@exemplo.com](lucianogudas057@gmail.com)
 - 📧 E-mail: [seu.email@exemplo.com](lucianonevesssantos@hotmail.com)
   
