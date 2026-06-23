@@ -1,49 +1,175 @@
-
-
 # Olá, eu sou o Luciano! 👋
 
-### Programador Full Stack
+### Desenvolvedor Full Stack Jr 🚀
 
-Sou um programador Full Stack focado no desenvolvimento de aplicações web  modernas, robustas e escaláveis. Utilizo o ecossistema  para construir interfaces dinâmicas e APIs eficientes, com forte foco na integração de soluções de Inteligência Artificial e na aplicação de boas práticas de Arquitetura de Software para resolver problemas reais.
+Sou Desenvolvedor Full Stack Jr focado na criação de aplicações web modernas, 
+responsivas e escaláveis.
+
+Atuo no desenvolvimento de soluções completas, desde a construção de interfaces 
+dinâmicas no frontend até APIs eficientes no backend, utilizando o ecossistema 
+JavaScript/TypeScript.
+
+Tenho interesse em Arquitetura de Software, Inteligência Artificial e boas práticas 
+de desenvolvimento, buscando sempre criar aplicações organizadas, performáticas 
+e que resolvam problemas reais.
+
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+## 🛠️ Tecnologias & Ferramentas
 
-- **Frontend:** React.js, TypeScript, Tailwind Next.js, HTML5, CSS3
-- **Backend & Frameworks:** Node.js, Express, Prisma ORM, Postegred Sql, JWT, Cloudinary
-- **Deploy & Infraestrutura:** Vercel, Git, GitHub
+### Frontend
+
+- React.js
+- Next.js
+- TypeScript
+- JavaScript
+- Tailwind CSS
+- HTML5
+- CSS3
+
+
+### Backend
+
+- Node.js
+- Express.js
+- APIs REST
+- Prisma ORM
+- PostgreSQL
+- JWT Authentication
+- Bcrypt
+
+
+### Serviços & Ferramentas
+
+- Firebase
+- Cloudinary
+- Git
+- GitHub
+- Vercel
+
 
 ---
 
-### 🚀 Projetos em Destaque
+# 🚀 Projetos em Destaque
 
-#### 📱 [ocorrenciasUrbanas](https://github.com/lucianoneves)
-Aplicativo mobile (MVP) desenvolvido para relatar e registrar problemas de infraestrutura urbana. Permite que os cidadãos colaborem ativamente com a zeladoria da cidade enviando ocorrências de forma ágil.
-- **Stack:** React.js, Next.js, Node.js, Express, TypeScript, PostgreSQL, Prisma ORM, IA Spec.Scify
 
-#### 📊 [gerenciamentoFutebol](https://github.com/lucianoneves)
-Sistema de automação e gestão financeira para administração de times de futebol locais. Controla o status de pagamento de mensalidades (pendentes ou em dia) de atletas e auxilia no planejamento de eventos sociais, como churrascos do time.
-- **Stack:** React.js, Node.js, Express, TypeScript, PostgreSQL, Prisma ORM
+## 🌎 Fiscaliza+ — Plataforma de Cidadania Inteligente
 
-#### 🚗 [consultaCarros](https://github.com/lucianoneves)
-Aplicação desenvolvida para busca e consulta de dados automotivos, facilitando a filtragem e visualização de informações sobre veículos.
-- **Stack:** Next.js, React.js, TypeScript, REST APIs
+Sistema de participação cidadã e monitoramento urbano.
+
+A plataforma permite que moradores registrem problemas de infraestrutura urbana,
+acompanhem ocorrências e contribuam para uma comunicação mais transparente entre
+comunidade e órgãos responsáveis.
+
+### Funcionalidades:
+
+✅ Cadastro de usuários  
+✅ Registro de ocorrências  
+✅ Upload de imagens  
+✅ Acompanhamento de solicitações  
+✅ Gestão de problemas urbanos  
+
+
+**Stack:**
+
+React.js • TypeScript • Node.js • Express • Firebase • CSS
+
 
 ---
 
-### 🎓 Foco de Estudos & Evolução
+## ⚽ Gerenciamento Futebol
 
-- 🤖 **Inteligência Artificial na Prática:** Dedicado a construir projetos inteligentes, explorando desde conceitos fundamentais (como agentes e testes de Turing) até a integração prática de IA em aplicações do dia a dia.
-- 📐 **Arquitetura de Software:** Desenvolvimento de sistemas modulares, escaláveis e de fácil manutenção, aplicando padrões de projeto, clean code e modelagem robusta de bancos de dados.
+Sistema para controle financeiro e administrativo de times de futebol.
+
+Permite acompanhar pagamentos de jogadores, mensalidades, pendências e organização
+de eventos do time.
+
+
+**Funcionalidades:**
+
+✅ Controle de pagamentos  
+✅ Cadastro de jogadores  
+✅ Status financeiro  
+✅ Organização de informações do time  
+
+
+**Stack:**
+
+React.js • Node.js • Express • TypeScript • PostgreSQL • Prisma ORM
+
 
 ---
 
-### 📫 Como me encontrar
+## 🚗 Consulta Carros
 
-- 💼 LinkedIn: https://www.linkedin.com/in/luciano-neves-dos-santos-5ba61664/
-- 📧 E-mail: [seu.email@exemplo.com](lucianogudas057@gmail.com)
-- 📧 E-mail: [seu.email@exemplo.com](lucianonevesssantos@hotmail.com)
-  
+Aplicação para consulta e visualização de informações automotivas utilizando
+integração com APIs.
 
 
+**Stack:**
+
+Next.js • React.js • TypeScript • REST APIs
+
+
+---
+
+# 🎓 Foco de Estudos & Evolução
+
+
+## 🤖 Inteligência Artificial
+
+Estudando integração de Inteligência Artificial em aplicações modernas,
+explorando agentes inteligentes, automações e soluções baseadas em IA.
+
+
+## 📐 Arquitetura de Software
+
+Aprimorando conhecimentos em:
+
+- Clean Code
+- Estruturação de projetos
+- Padrões de projeto
+- Sistemas escaláveis
+- Modelagem de banco de dados
+
+
+---
+
+# 📊 GitHub Status
+
+<div align="center">
+
+<img height="180em" 
+src="https://github-readme-stats.vercel.app/api?username=Lucianoneves&show_icons=true&theme=transparent"/>
+
+<img height="180em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianoneves&layout=compact&theme=transparent"/>
+
+</div>
+
+
+---
+
+# 📫 Como me encontrar
+
+
+💼 LinkedIn:
+
+https://www.linkedin.com/in/luciano-neves-dos-santos-5ba61664/
+
+
+📧 Email:
+
+lucianogudas057@gmail.com
+
+
+📧 Email:
+
+lucianonevesssantos@hotmail.com
+
+
+---
+
+⭐ Sempre buscando evoluir, aprender novas tecnologias e construir soluções
+que gerem impacto através da programação.
